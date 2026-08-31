@@ -55,17 +55,6 @@ Outside of coding, I love **games, books, fantasy worlds, and exploring AI**.
 ### Currently Learning
 
 ⚛️ **JavaScript** · **React**
-
----
-
-## 🗺️ Current Quest
-
-> 🎲 **D&D Character Manager**
-> Building a portfolio-ready application with a focus on backend architecture, REST API design, database integration, authentication, testing, and Docker.
-
-> ⚛️ **Full Stack Development**
-> Expanding from Python backend development into modern frontend technologies.
-
 ---
 
 ## 📜 My Journey
