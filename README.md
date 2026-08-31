@@ -107,26 +107,3 @@ Outside of coding, I love **games, books, fantasy worlds, and exploring AI**.
 <img src="assets/footer.svg" width="900" alt="✦ Thanks for visiting my profile ✦ — Let's build something awesome. 💼 LinkedIn · 🐙 GitHub · 📧 Email">
 
 </div>
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub statistics will be added here -->
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ Thanks for visiting my profile ✦
-
-**Let's build something awesome.**
-
-💼 LinkedIn · 🐙 GitHub · 📧 Email
-
-</div>
