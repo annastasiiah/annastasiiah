@@ -58,10 +58,10 @@ Outside of coding, I love **games, books, fantasy worlds, and exploring AI**.
 
 <br>
 
-<a href="https://www.linkedin.com/in/anastasia-horpynyuk-0397a8420/"><img src="assets/link-linkedin.svg" width="208" alt="💼 LinkedIn"></a>
+<a href="https://www.linkedin.com/in/anastasia-horpynyuk-0397a8420/"><img src="assets/link-linkedin.svg" width="217" alt="💼 LinkedIn"></a>
 &nbsp;
-<a href="https://github.com/annastasiiah"><img src="assets/link-github.svg" width="177" alt="🐙 GitHub"></a>
+<a href="https://github.com/annastasiiah"><img src="assets/link-github.svg" width="183" alt="🐙 GitHub"></a>
 &nbsp;
-<a href="mailto:anastasiahorpynyuk@gmail.com"><img src="assets/link-email.svg" width="155" alt="📧 Email"></a>
+<a href="mailto:anastasiahorpynyuk@gmail.com"><img src="assets/link-email.svg" width="166" alt="📧 Email"></a>
 
 </div>
