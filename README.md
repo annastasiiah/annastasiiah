@@ -10,8 +10,6 @@
 
 <img src="assets/divider.svg" width="900" alt="">
 
-</div>
-
 <br>
 
 <img src="assets/sec-about.svg" width="900" alt="👋 About Me">
@@ -28,11 +26,7 @@ Outside of coding, I love **games, books, fantasy worlds, and exploring AI**.
 
 <br>
 
-<div align="center">
-
 <img src="assets/divider.svg" width="900" alt="">
-
-</div>
 
 <br>
 
@@ -40,15 +34,11 @@ Outside of coding, I love **games, books, fantasy worlds, and exploring AI**.
 
 <br>
 
-<div align="center">
-
-<a href="#"><img src="assets/featured-dnd.svg" width="900" alt="🎲 D&D Character Manager — A web application for creating and managing D&D characters. Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker. View Repository →"></a>
+<a href="https://github.com/annastasiiah/dnd-character-manager"><img src="assets/featured-dnd.svg" width="900" alt="🎲 D&D Character Manager — A web application for creating and managing D&D characters. Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker. View Repository →"></a>
 
 <br>
 
 <img src="assets/divider.svg" width="900" alt="">
-
-</div>
 
 <br>
 
@@ -56,54 +46,22 @@ Outside of coding, I love **games, books, fantasy worlds, and exploring AI**.
 
 <br>
 
-<div align="center">
-
 <img src="assets/arsenal.svg" width="900" alt="Backend: 🐍 Python · ⚡ FastAPI · 🐘 PostgreSQL · 🔗 SQLAlchemy · 🔄 Alembic — DevOps &amp; Tools: 🐳 Docker · 🐙 Git &amp; GitHub · 🐧 Linux — API &amp; Testing: 🌐 REST API · 📖 Swagger / OpenAPI · 🧪 pytest — Currently Learning: ⚛️ JavaScript · React">
 
 <br>
 
 <img src="assets/divider.svg" width="900" alt="">
 
-</div>
+<br>
+
+<img src="assets/footer.svg" width="900" alt="✦ Thanks for visiting my profile ✦ — Let's build something awesome.">
 
 <br>
 
-<img src="assets/sec-journey.svg" width="900" alt="📜 My Journey">
-
-<br>
-
-<div align="center">
-
-<img src="assets/journey.svg" width="900" alt="🧮 Mathematics &amp; Statistics ↓ 🔐 Cybersecurity ↓ 🐍 Python ↓ ⚡ Backend Development ↓ 🚀 Full Stack">
-
-<br>
-
-<img src="assets/divider.svg" width="900" alt="">
-
-</div>
-
-<br>
-
-<img src="assets/sec-stats.svg" width="900" alt="📊 GitHub Stats">
-
-<br>
-
-<div align="center">
-
-<!-- GitHub statistics will be added here -->
-
-<img src="assets/stats-panel.svg" width="900" alt="">
-
-<br>
-
-<img src="assets/divider.svg" width="900" alt="">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="assets/footer.svg" width="900" alt="✦ Thanks for visiting my profile ✦ — Let's build something awesome. 💼 LinkedIn · 🐙 GitHub · 📧 Email">
+<a href="https://www.linkedin.com/in/anastasia-horpynyuk-0397a8420/"><img src="assets/link-linkedin.svg" width="208" alt="💼 LinkedIn"></a>
+&nbsp;
+<a href="https://github.com/annastasiiah"><img src="assets/link-github.svg" width="177" alt="🐙 GitHub"></a>
+&nbsp;
+<a href="mailto:anastasiahorpynyuk@gmail.com"><img src="assets/link-email.svg" width="155" alt="📧 Email"></a>
 
 </div>
