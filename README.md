@@ -17,10 +17,6 @@
 
 ## 🌸 &nbsp;About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 - 🤍 &nbsp;Backend developer with a background in mathematics and cybersecurity.
 
 - 🕊️ &nbsp;I enjoy building backend applications, working with databases, and turning complex problems into practical solutions.
@@ -28,15 +24,6 @@
 - 🌱 &nbsp;Currently, I'm focused on backend development with **Python and FastAPI**, while gradually expanding my skills toward **full-stack development**.
 
 - 🎲 &nbsp;Outside of coding, I love **games, books, fantasy worlds, and exploring AI**.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=annastasiiah&bg_color=FBEFE7&title_color=B4707A&text_color=6B4F4F&icon_color=C9848F&border_color=E0C9B5" alt="Most used language" width="100%">
-
-</td>
-</tr>
-</table>
 
 ---
 
