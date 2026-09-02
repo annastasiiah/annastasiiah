@@ -127,8 +127,7 @@ The project combines my passion for **software development, D&amp;D, games, and 
 
 <a href="https://www.linkedin.com/in/anastasia-horpynyuk-0397a8420/"><img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzVDNDAzMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTMgMS40NS0yLjEzIDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6bTEuNzggMTMuMDJIMy41NVY5aDMuNTd2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D&logoColor=5C4033" alt="LinkedIn"></a>
 <a href="https://github.com/annastasiiah"><img src="https://img.shields.io/badge/GitHub-E8D5B7?style=for-the-badge&logo=github&logoColor=5C4033" alt="GitHub"></a>
-<a href="mailto:anastasiahorpynyuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-F4C2C2?style=for-the-badge&logo=gmail&logoColor=5C4033" alt="Email"></a>
-<a href="https://steamcommunity.com/id/forgetsmenot/"><img src="https://img.shields.io/badge/Steam-E8D5B7?style=for-the-badge&logo=steam&logoColor=5C4033" alt="Steam"></a>
+<a href="https://steamcommunity.com/id/forgetsmenot/"><img src="https://img.shields.io/badge/Steam-F4C2C2?style=for-the-badge&logo=steam&logoColor=5C4033" alt="Steam"></a>
 
 </div>
 
