@@ -134,21 +134,6 @@ The project combines my passion for **software development, D&amp;D, games, and 
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annastasiiah&bg_color=FBEFE7&title_color=B4707A&text_color=6B4F4F&icon_color=C9848F&border_color=E0C9B5" alt="GitHub profile summary" width="780">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=annastasiiah&bg_color=FBEFE7&title_color=B4707A&text_color=6B4F4F&icon_color=C9848F&border_color=E0C9B5" alt="GitHub stats" width="380">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=annastasiiah&utcOffset=2&bg_color=FBEFE7&title_color=B4707A&text_color=6B4F4F&icon_color=C9848F&border_color=E0C9B5" alt="Commits per day hour" width="380">
-
-<img src="https://streak-stats.demolab.com?user=annastasiiah&background=FBEFE7&border=E0C9B5&stroke=E0C9B5&ring=C9848F&fire=D98E7A&currStreakNum=6B4F4F&sideNums=6B4F4F&currStreakLabel=B4707A&sideLabels=8B6F5C&dates=A08878&border_radius=8" alt="Contribution streak" width="560">
-
-</div>
-
----
-
 ## 💌 &nbsp;Connect
 
 <div align="center">
