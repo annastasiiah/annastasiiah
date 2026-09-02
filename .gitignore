@@ -1,2 +1,2 @@
-__pycache__/
-*.pyc
+# local reference material, not part of the profile
+photo_*.jpg
