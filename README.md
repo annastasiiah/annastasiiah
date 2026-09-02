@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F2,25:FBDCE0,55:F4C2C8,80:EAA8B2,100:DE93A1&height=180&section=header" alt="">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=2600&pause=99999&color=C9848F&center=true&vCenter=true&width=800&height=80&lines=Anastasia+Horpynyuk&repeat=false" alt="Anastasia Horpynyuk">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=2600&pause=99999&color=C9848F&center=true&vCenter=true&width=800&height=80&lines=Anastasia+Horpynyuk&repeat=false" alt="Anastasia Horpyniuk">
 
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=20&duration=3000&pause=800&color=C89AA0&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer;Python+%2B+FastAPI;Expanding+toward+full-stack;Building+one+project+at+a+time" alt="Backend Developer · Python + FastAPI · Expanding toward full-stack">
 
