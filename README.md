@@ -46,14 +46,13 @@
 
 ### 🎲 &nbsp;D&amp;D Character Manager
 
-**A web application for creating and managing D&amp;D characters.**
-
 <img src="https://img.shields.io/badge/Python-F4C2C2?style=for-the-badge&logo=python&logoColor=5C4033" alt="Python">
 <img src="https://img.shields.io/badge/FastAPI-E8D5B7?style=for-the-badge&logo=fastapi&logoColor=5C4033" alt="FastAPI">
 <img src="https://img.shields.io/badge/PostgreSQL-F4C2C2?style=for-the-badge&logo=postgresql&logoColor=5C4033" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/SQLAlchemy-E8D5B7?style=for-the-badge&logo=sqlalchemy&logoColor=5C4033" alt="SQLAlchemy">
-<img src="https://img.shields.io/badge/Alembic-F4C2C2?style=for-the-badge" alt="Alembic">
-<img src="https://img.shields.io/badge/Docker-E8D5B7?style=for-the-badge&logo=docker&logoColor=5C4033" alt="Docker">
+<img src="https://img.shields.io/badge/Pydantic-F4C2C2?style=for-the-badge&logo=pydantic&logoColor=5C4033" alt="Pydantic">
+<img src="https://img.shields.io/badge/Alembic-E8D5B7?style=for-the-badge" alt="Alembic">
+<img src="https://img.shields.io/badge/REST%20API-F4C2C2?style=for-the-badge" alt="REST API">
 
 <a href="https://github.com/annastasiiah/dnd-character-manager"><img src="https://img.shields.io/github/languages/top/annastasiiah/dnd-character-manager?style=flat-square&labelColor=FBEFE7&color=E8D5B7" alt="Top language"></a>
 <a href="https://github.com/annastasiiah/dnd-character-manager"><img src="https://img.shields.io/github/stars/annastasiiah/dnd-character-manager?style=flat-square&labelColor=FBEFE7&color=F4C2C2" alt="Stars"></a>
@@ -63,9 +62,56 @@
 
 </div>
 
+**D&amp;D Character Manager** is a full-stack web application designed to make creating and managing D&amp;D characters easier.
+
+I'm building the project from the ground up, starting with a robust backend and gradually expanding it into a complete web application with a modern frontend.
+
+#### 🛠️ &nbsp;Tech &amp; Features
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Backend**
+
+- 🐍 &nbsp;Python &amp; FastAPI
+- 🗄️ &nbsp;PostgreSQL &amp; SQLAlchemy
+- 🔐 &nbsp;Authentication &amp; authorization
+- 🔌 &nbsp;REST API
+- 📋 &nbsp;Pydantic data validation
+- 🛠️ &nbsp;Alembic database migrations
+
+</td>
+<td width="33%" valign="top">
+
+**Frontend**
+
+- 🎨 &nbsp;Modern web interface
+- 🧙 &nbsp;Character creation and management
+- 📊 &nbsp;Character data and statistics
+- 🧩 &nbsp;Interactive character features
+- 🔗 &nbsp;Integration with the FastAPI backend
+
+</td>
+<td width="34%" valign="top">
+
+**Planned &amp; In Progress**
+
+- 🧬 &nbsp;Races, classes, spells, and abilities
+- ⚔️ &nbsp;Character progression and equipment
+- 📖 &nbsp;D&amp;D reference data
+- 👤 &nbsp;User profiles and character collections
+- 🐳 &nbsp;Docker-based development and deployment
+
+</td>
+</tr>
+</table>
+
+The project combines my passion for **software development, D&amp;D, games, and fantasy worlds** while giving me an opportunity to build and learn across the full stack.
+
 ---
 
-## 🛠️ &nbsp;Tech Stack
+## 🧰 &nbsp;Tech Stack
 
 <div align="center">
 
