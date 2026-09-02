@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE9E9,30:F7D2D2,65:F4C2C2,100:E8D5B7&height=180&section=header" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F2,25:FBDCE0,55:F4C2C8,80:EAA8B2,100:DE93A1&height=180&section=header" alt="">
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=2600&pause=99999&color=C9848F&center=true&vCenter=true&width=800&height=80&lines=Anastasia+Horpynyuk&repeat=false" alt="Anastasia Horpynyuk">
 
@@ -133,6 +133,6 @@ The project combines my passion for **software development, D&amp;D, games, and 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D5B7,35:F4C2C2,70:F7D2D2,100:FCE9E9&height=120&section=footer" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DE93A1,20:EAA8B2,45:F4C2C8,75:FBDCE0,100:FFF1F2&height=120&section=footer" alt="">
 
 </div>
