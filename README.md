@@ -201,6 +201,8 @@ The project combines my background in **Mathematics and Statistics** with my int
 
 <img src="https://img.shields.io/badge/Python-F4C2C2?style=for-the-badge&logo=python&logoColor=5C4033" alt="Python">
 <img src="https://img.shields.io/badge/FastAPI-E8D5B7?style=for-the-badge&logo=fastapi&logoColor=5C4033" alt="FastAPI">
+<img src="https://img.shields.io/badge/Django-F4C2C2?style=for-the-badge&logo=django&logoColor=5C4033" alt="Django">
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-E8D5B7?style=for-the-badge&logo=django&logoColor=5C4033" alt="Django REST Framework">
 <img src="https://img.shields.io/badge/PostgreSQL-F4C2C2?style=for-the-badge&logo=postgresql&logoColor=5C4033" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/SQLAlchemy-E8D5B7?style=for-the-badge&logo=sqlalchemy&logoColor=5C4033" alt="SQLAlchemy">
 <img src="https://img.shields.io/badge/Alembic-F4C2C2?style=for-the-badge" alt="Alembic">
