@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F2,25:FBDCE0,55:F4C2C8,80:EAA8B2,100:DE93A1&height=180&section=header" alt="">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=2600&pause=99999&color=C9848F&center=true&vCenter=true&width=800&height=80&lines=Anastasia+Horpynyuk&repeat=false" alt="Anastasia Horpyniuk">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=2600&pause=99999&color=C9848F&center=true&vCenter=true&width=800&height=80&lines=Anastasia+Horpyniuk&repeat=false" alt="Anastasia Horpyniuk">
 
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=20&duration=3000&pause=800&color=C89AA0&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer;Python+%2B+FastAPI;Expanding+toward+full-stack;Building+one+project+at+a+time" alt="Backend Developer · Python + FastAPI · Expanding toward full-stack">
 
@@ -40,6 +40,12 @@
 <img src="https://img.shields.io/badge/Pydantic-F4C2C2?style=for-the-badge&logo=pydantic&logoColor=5C4033" alt="Pydantic">
 <img src="https://img.shields.io/badge/Alembic-E8D5B7?style=for-the-badge" alt="Alembic">
 <img src="https://img.shields.io/badge/REST%20API-F4C2C2?style=for-the-badge" alt="REST API">
+<img src="https://img.shields.io/badge/React-E8D5B7?style=for-the-badge&logo=react&logoColor=5C4033" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-F4C2C2?style=for-the-badge&logo=typescript&logoColor=5C4033" alt="TypeScript">
+<img src="https://img.shields.io/badge/HTML-E8D5B7?style=for-the-badge&logo=html5&logoColor=5C4033" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-F4C2C2?style=for-the-badge&logo=css3&logoColor=5C4033" alt="CSS">
+<img src="https://img.shields.io/badge/Vite-E8D5B7?style=for-the-badge&logo=vite&logoColor=5C4033" alt="Vite">
+<img src="https://img.shields.io/badge/Docker-F4C2C2?style=for-the-badge&logo=docker&logoColor=5C4033" alt="Docker">
 
 <a href="https://github.com/annastasiiah/dnd-character-manager"><img src="https://img.shields.io/github/languages/top/annastasiiah/dnd-character-manager?style=flat-square&labelColor=FBEFE7&color=E8D5B7" alt="Top language"></a>
 <a href="https://github.com/annastasiiah/dnd-character-manager"><img src="https://img.shields.io/github/stars/annastasiiah/dnd-character-manager?style=flat-square&labelColor=FBEFE7&color=F4C2C2" alt="Stars"></a>
@@ -116,6 +122,10 @@ The project combines my passion for **software development, D&amp;D, games, and 
 <img src="https://img.shields.io/badge/pytest-E8D5B7?style=for-the-badge&logo=pytest&logoColor=5C4033" alt="pytest">
 <img src="https://img.shields.io/badge/JavaScript-F4C2C2?style=for-the-badge&logo=javascript&logoColor=5C4033" alt="JavaScript">
 <img src="https://img.shields.io/badge/React-E8D5B7?style=for-the-badge&logo=react&logoColor=5C4033" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-F4C2C2?style=for-the-badge&logo=typescript&logoColor=5C4033" alt="TypeScript">
+<img src="https://img.shields.io/badge/HTML-E8D5B7?style=for-the-badge&logo=html5&logoColor=5C4033" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-F4C2C2?style=for-the-badge&logo=css3&logoColor=5C4033" alt="CSS">
+<img src="https://img.shields.io/badge/Vite-E8D5B7?style=for-the-badge&logo=vite&logoColor=5C4033" alt="Vite">
 
 </div>
 
