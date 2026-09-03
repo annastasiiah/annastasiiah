@@ -17,13 +17,11 @@
 
 ## 🌸 &nbsp;About Me
 
-- 🤍 &nbsp;Backend developer with a background in mathematics and cybersecurity.
+- 🤍 &nbsp;Backend Developer with a background in **Mathematics and Cybersecurity**, combining analytical thinking with a passion for software engineering.
 
-- 🕊️ &nbsp;I enjoy building backend applications, working with databases, and turning complex problems into practical solutions.
+- 🌱 &nbsp;My current focus is Python backend development with **FastAPI, Django, PostgreSQL, SQLAlchemy, and REST APIs**. I'm also expanding into **React and TypeScript** as I work toward becoming a full-stack developer.
 
-- 🌱 &nbsp;Currently, I'm focused on backend development with **Python and FastAPI**, while gradually expanding my skills toward **full-stack development**.
-
-- 🎲 &nbsp;Outside of coding, I love **games, books, fantasy worlds, and exploring AI**.
+- 🎲 &nbsp;I build portfolio projects that combine **software engineering, data, AI**, and the things I enjoy outside of coding — **books, games, and fantasy worlds**.
 
 ---
 
