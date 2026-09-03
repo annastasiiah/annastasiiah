@@ -131,6 +131,8 @@ The project combines a personal library with an analytics dashboard, transformin
 
 #### 🛠️ &nbsp;Tech &amp; Features
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -188,6 +190,8 @@ The project combines a personal library with an analytics dashboard, transformin
 </td>
 </tr>
 </table>
+
+</div>
 
 The project combines my background in **Mathematics and Statistics** with my interests in **books, data, and software development**, while giving me an opportunity to build a full-stack application around something I genuinely enjoy.
 
