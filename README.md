@@ -104,6 +104,97 @@ The project combines my passion for **software development, D&amp;D, games, and 
 
 ---
 
+<div align="center">
+
+### 📚 &nbsp;Bookwise — Personal Library &amp; Book Analytics
+
+<img src="https://img.shields.io/badge/Python-F4C2C2?style=for-the-badge&logo=python&logoColor=5C4033" alt="Python">
+<img src="https://img.shields.io/badge/Django-E8D5B7?style=for-the-badge&logo=django&logoColor=5C4033" alt="Django">
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-F4C2C2?style=for-the-badge&logo=django&logoColor=5C4033" alt="Django REST Framework">
+<img src="https://img.shields.io/badge/PostgreSQL-E8D5B7?style=for-the-badge&logo=postgresql&logoColor=5C4033" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/React-F4C2C2?style=for-the-badge&logo=react&logoColor=5C4033" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-E8D5B7?style=for-the-badge&logo=typescript&logoColor=5C4033" alt="TypeScript">
+<img src="https://img.shields.io/badge/Vite-F4C2C2?style=for-the-badge&logo=vite&logoColor=5C4033" alt="Vite">
+<img src="https://img.shields.io/badge/Docker-E8D5B7?style=for-the-badge&logo=docker&logoColor=5C4033" alt="Docker">
+
+<!-- Live repository stats — uncomment once github.com/annastasiiah/bookwise is published
+<a href="https://github.com/annastasiiah/bookwise"><img src="https://img.shields.io/github/languages/top/annastasiiah/bookwise?style=flat-square&labelColor=FBEFE7&color=E8D5B7" alt="Top language"></a>
+<a href="https://github.com/annastasiiah/bookwise"><img src="https://img.shields.io/github/stars/annastasiiah/bookwise?style=flat-square&labelColor=FBEFE7&color=F4C2C2" alt="Stars"></a>
+<a href="https://github.com/annastasiiah/bookwise/commits"><img src="https://img.shields.io/github/last-commit/annastasiiah/bookwise?style=flat-square&labelColor=FBEFE7&color=E8D5B7" alt="Last commit"></a>
+-->
+
+<a href="https://github.com/annastasiiah/bookwise"><img src="https://img.shields.io/badge/View%20Repository-C9848F?style=for-the-badge&logo=github&logoColor=FBEFE7" alt="View repository"></a>
+
+</div>
+
+**Bookwise** is a full-stack web application for managing a personal book collection and exploring individual reading habits through data and visual analytics.
+
+The project combines a personal library with an analytics dashboard, transforming reading history, ratings, and preferences into meaningful statistics and insights.
+
+#### 🛠️ &nbsp;Tech &amp; Features
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Backend**
+
+- 🐍 &nbsp;Python &amp; Django
+- 🔌 &nbsp;Django REST Framework
+- 🗄️ &nbsp;PostgreSQL &amp; Django ORM
+- 🔐 &nbsp;User authentication and personal libraries
+- 📋 &nbsp;Data validation with DRF serializers
+- 🛠️ &nbsp;Django migrations
+- ⚙️ &nbsp;REST API
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend**
+
+- ⚛️ &nbsp;React &amp; TypeScript
+- ⚡ &nbsp;Vite
+- 📖 &nbsp;Personal library and book management
+- 🔎 &nbsp;Search, filtering, and sorting
+- 📊 &nbsp;Interactive charts and analytics
+- 🔗 &nbsp;Integration with the Django REST API
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Analytics**
+
+- 📈 &nbsp;Reading activity over time
+- 📚 &nbsp;Books read and reading progress
+- ⭐ &nbsp;Ratings and personal preferences
+- 🏷️ &nbsp;Favorite genres and authors
+- ⏱️ &nbsp;Reading pace and completion patterns
+- 📊 &nbsp;Yearly and monthly reading statistics
+- 🔍 &nbsp;Personalized insights into reading habits
+
+</td>
+<td width="50%" valign="top">
+
+**Planned &amp; In Progress**
+
+- 📖 &nbsp;Book collection and reading status tracking
+- 📝 &nbsp;Personal notes and reviews
+- 📅 &nbsp;Reading history and yearly summaries
+- 📊 &nbsp;Interactive analytics dashboard
+- 🧠 &nbsp;Data-driven insights into reading habits
+- 📈 &nbsp;Advanced reading statistics and visualizations
+- 🐳 &nbsp;Docker-based development and deployment
+
+</td>
+</tr>
+</table>
+
+The project combines my background in **Mathematics and Statistics** with my interests in **books, data, and software development**, while giving me an opportunity to build a full-stack application around something I genuinely enjoy.
+
+---
+
 ## 🧰 &nbsp;Tech Stack
 
 <div align="center">
