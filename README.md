@@ -31,20 +31,29 @@
 
 ### 🎲 &nbsp;D&amp;D Character Manager
 
+<img src="https://img.shields.io/badge/Status-Completed-C9848F?style=for-the-badge&labelColor=FBEFE7" alt="Status: Completed">
+
 <img src="https://img.shields.io/badge/Python-F4C2C2?style=for-the-badge&logo=python&logoColor=5C4033" alt="Python">
 <img src="https://img.shields.io/badge/FastAPI-E8D5B7?style=for-the-badge&logo=fastapi&logoColor=5C4033" alt="FastAPI">
 <img src="https://img.shields.io/badge/PostgreSQL-F4C2C2?style=for-the-badge&logo=postgresql&logoColor=5C4033" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/SQLAlchemy-E8D5B7?style=for-the-badge&logo=sqlalchemy&logoColor=5C4033" alt="SQLAlchemy">
-<img src="https://img.shields.io/badge/Pydantic-F4C2C2?style=for-the-badge&logo=pydantic&logoColor=5C4033" alt="Pydantic">
-<img src="https://img.shields.io/badge/Alembic-E8D5B7?style=for-the-badge" alt="Alembic">
-<img src="https://img.shields.io/badge/REST%20API-F4C2C2?style=for-the-badge" alt="REST API">
-<img src="https://img.shields.io/badge/React-E8D5B7?style=for-the-badge&logo=react&logoColor=5C4033" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-F4C2C2?style=for-the-badge&logo=typescript&logoColor=5C4033" alt="TypeScript">
+<img src="https://img.shields.io/badge/Alembic-F4C2C2?style=for-the-badge" alt="Alembic">
+<img src="https://img.shields.io/badge/Pydantic-E8D5B7?style=for-the-badge&logo=pydantic&logoColor=5C4033" alt="Pydantic">
+<img src="https://img.shields.io/badge/JWT-F4C2C2?style=for-the-badge&logo=jsonwebtokens&logoColor=5C4033" alt="JWT">
+<img src="https://img.shields.io/badge/Celery-E8D5B7?style=for-the-badge&logo=celery&logoColor=5C4033" alt="Celery">
+<img src="https://img.shields.io/badge/Redis-F4C2C2?style=for-the-badge&logo=redis&logoColor=5C4033" alt="Redis">
+<img src="https://img.shields.io/badge/REST%20API-E8D5B7?style=for-the-badge" alt="REST API">
+<img src="https://img.shields.io/badge/React-F4C2C2?style=for-the-badge&logo=react&logoColor=5C4033" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-E8D5B7?style=for-the-badge&logo=typescript&logoColor=5C4033" alt="TypeScript">
+<img src="https://img.shields.io/badge/Vite-F4C2C2?style=for-the-badge&logo=vite&logoColor=5C4033" alt="Vite">
 <img src="https://img.shields.io/badge/HTML-E8D5B7?style=for-the-badge&logo=html5&logoColor=5C4033" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-F4C2C2?style=for-the-badge&logo=css3&logoColor=5C4033" alt="CSS">
-<img src="https://img.shields.io/badge/Vite-E8D5B7?style=for-the-badge&logo=vite&logoColor=5C4033" alt="Vite">
+<img src="https://img.shields.io/badge/pytest-E8D5B7?style=for-the-badge&logo=pytest&logoColor=5C4033" alt="pytest">
+<img src="https://img.shields.io/badge/Ruff-F4C2C2?style=for-the-badge&logo=ruff&logoColor=5C4033" alt="Ruff">
+<img src="https://img.shields.io/badge/GitHub%20Actions-E8D5B7?style=for-the-badge&logo=githubactions&logoColor=5C4033" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Docker-F4C2C2?style=for-the-badge&logo=docker&logoColor=5C4033" alt="Docker">
 
+<a href="https://github.com/annastasiiah/dnd-character-manager/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/annastasiiah/dnd-character-manager/ci.yml?branch=main&style=flat-square&label=CI&labelColor=FBEFE7&color=F4C2C2" alt="CI status"></a>
 <a href="https://github.com/annastasiiah/dnd-character-manager"><img src="https://img.shields.io/github/languages/top/annastasiiah/dnd-character-manager?style=flat-square&labelColor=FBEFE7&color=E8D5B7" alt="Top language"></a>
 <a href="https://github.com/annastasiiah/dnd-character-manager"><img src="https://img.shields.io/github/stars/annastasiiah/dnd-character-manager?style=flat-square&labelColor=FBEFE7&color=F4C2C2" alt="Stars"></a>
 <a href="https://github.com/annastasiiah/dnd-character-manager/commits"><img src="https://img.shields.io/github/last-commit/annastasiiah/dnd-character-manager?style=flat-square&labelColor=FBEFE7&color=E8D5B7" alt="Last commit"></a>
@@ -53,11 +62,13 @@
 
 </div>
 
-**D&amp;D Character Manager** is a full-stack web application designed to make creating and managing D&amp;D characters easier.
+**D&amp;D Character Manager** is a completed full-stack web application for creating, organizing, and managing D&amp;D characters.
 
-I'm building the project from the ground up, starting with a robust backend and gradually expanding it into a complete web application with a modern frontend.
+A React and TypeScript interface sits on top of a FastAPI REST API and a PostgreSQL database, with a Celery worker generating character sheet PDFs in the background. The whole stack — frontend, API, database, Redis, and worker — runs together through Docker Compose, with linting, migrations, and automated tests enforced by GitHub Actions CI.
 
 #### 🛠️ &nbsp;Tech &amp; Features
+
+<div align="center">
 
 <table>
 <tr>
@@ -65,40 +76,135 @@ I'm building the project from the ground up, starting with a robust backend and 
 
 **Backend**
 
-- 🐍 &nbsp;Python &amp; FastAPI
-- 🗄️ &nbsp;PostgreSQL &amp; SQLAlchemy
-- 🔐 &nbsp;Authentication &amp; authorization
-- 🔌 &nbsp;REST API
-- 📋 &nbsp;Pydantic data validation
-- 🛠️ &nbsp;Alembic database migrations
+- 🐍 &nbsp;Python 3.13 &amp; FastAPI
+- 🗄️ &nbsp;PostgreSQL &amp; SQLAlchemy 2
+- 🔐 &nbsp;JWT authentication, password hashing, and role-based access control
+- 🔌 &nbsp;REST API with full character CRUD
+- 🧝 &nbsp;Reference data: races, classes, backgrounds, and spells
+- 📋 &nbsp;Pydantic request and response validation
+- 🛠️ &nbsp;Alembic migrations and database seeding
+- 👑 &nbsp;Admin endpoints for users and reference data
+- 📖 &nbsp;Swagger UI and ReDoc documentation
 
 </td>
 <td width="33%" valign="top">
 
 **Frontend**
 
-- 🎨 &nbsp;Modern web interface
-- 🧙 &nbsp;Character creation and management
-- 📊 &nbsp;Character data and statistics
-- 🧩 &nbsp;Interactive character features
-- 🔗 &nbsp;Integration with the FastAPI backend
+- ⚛️ &nbsp;React 19 &amp; TypeScript
+- ⚡ &nbsp;Vite
+- 🧙 &nbsp;Character creation, editing, and deletion
+- 🔎 &nbsp;Search, race and class filters, and sorting
+- ✨ &nbsp;Spellbook with per-character spell management
+- 📚 &nbsp;Compendium of races, classes, and backgrounds
+- 🔑 &nbsp;Registration, login, and user profile screens
+- 📄 &nbsp;One-click character sheet downloads
+- 🔗 &nbsp;Token-based integration with the FastAPI API
+
+</td>
+<td width="34%" valign="top">
+
+**Additional Features**
+
+- 📄 &nbsp;PDF character sheets generated with ReportLab
+- ⚙️ &nbsp;Celery &amp; Redis asynchronous task processing
+- 📥 &nbsp;Export status polling and download endpoints
+- 🧪 &nbsp;pytest suite running against a dedicated test database
+- 🔍 &nbsp;Ruff linting and code quality checks
+- 🤖 &nbsp;GitHub Actions CI: linting, migrations, tests, and a PDF generation check
+- 🐳 &nbsp;Docker Compose environment with five services
+- 🌐 &nbsp;Nginx-served production frontend build
+- 📦 &nbsp;uv-managed Python dependencies
+
+</td>
+</tr>
+</table>
+
+</div>
+
+The project combines my passion for **software development, D&amp;D, games, and fantasy worlds** while giving me an opportunity to build and learn across the full stack.
+
+---
+
+<div align="center">
+
+### 🏆 &nbsp;Achievement Hunter — Steam Achievement Tracker
+
+<img src="https://img.shields.io/badge/Status-In%20Development-C9848F?style=for-the-badge&labelColor=FBEFE7" alt="Status: In Development">
+
+<img src="https://img.shields.io/badge/Python-F4C2C2?style=for-the-badge&logo=python&logoColor=5C4033" alt="Python">
+<img src="https://img.shields.io/badge/Django-E8D5B7?style=for-the-badge&logo=django&logoColor=5C4033" alt="Django">
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-F4C2C2?style=for-the-badge&logo=django&logoColor=5C4033" alt="Django REST Framework">
+<img src="https://img.shields.io/badge/Electron-E8D5B7?style=for-the-badge&logo=electron&logoColor=5C4033" alt="Electron">
+<img src="https://img.shields.io/badge/React-F4C2C2?style=for-the-badge&logo=react&logoColor=5C4033" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-E8D5B7?style=for-the-badge&logo=typescript&logoColor=5C4033" alt="TypeScript">
+<img src="https://img.shields.io/badge/Vite-F4C2C2?style=for-the-badge&logo=vite&logoColor=5C4033" alt="Vite">
+<img src="https://img.shields.io/badge/REST%20API-E8D5B7?style=for-the-badge" alt="REST API">
+<img src="https://img.shields.io/badge/Steam%20Web%20API-F4C2C2?style=for-the-badge&logo=steam&logoColor=5C4033" alt="Steam Web API">
+
+<a href="https://github.com/annastasiiah/achievement-hunter"><img src="https://img.shields.io/github/languages/top/annastasiiah/achievement-hunter?style=flat-square&labelColor=FBEFE7&color=E8D5B7" alt="Top language"></a>
+<a href="https://github.com/annastasiiah/achievement-hunter"><img src="https://img.shields.io/github/stars/annastasiiah/achievement-hunter?style=flat-square&labelColor=FBEFE7&color=F4C2C2" alt="Stars"></a>
+<a href="https://github.com/annastasiiah/achievement-hunter/commits"><img src="https://img.shields.io/github/last-commit/annastasiiah/achievement-hunter?style=flat-square&labelColor=FBEFE7&color=E8D5B7" alt="Last commit"></a>
+
+<a href="https://github.com/annastasiiah/achievement-hunter"><img src="https://img.shields.io/badge/View%20Repository-C9848F?style=for-the-badge&logo=github&logoColor=FBEFE7" alt="View repository"></a>
+
+</div>
+
+**Achievement Hunter** is a desktop application for tracking Steam game achievements, planning completion goals, and exploring gaming progress.
+
+The project is currently in active development. The Electron desktop shell and the React interface are already in place, and a Django REST Framework backend is being built behind them to store the game library, synchronize achievements, and power the statistics.
+
+#### 🛠️ &nbsp;Tech &amp; Features
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Backend**
+
+- 🐍 &nbsp;Python &amp; Django
+- 🔌 &nbsp;Django REST Framework
+- 🗄️ &nbsp;Django ORM and migrations
+- ⚙️ &nbsp;REST API for games and achievements
+- 🩺 &nbsp;Health-check endpoint
+- 🛠️ &nbsp;Django admin interface
+- 📦 &nbsp;uv-managed Python dependencies
+
+</td>
+<td width="33%" valign="top">
+
+**Desktop &amp; Frontend**
+
+- 🖥️ &nbsp;Electron desktop application
+- ⚛️ &nbsp;React &amp; TypeScript
+- ⚡ &nbsp;Vite
+- 🗂️ &nbsp;Overview, My Games, Achievements, Quest Log, and Statistics pages
+- 🎮 &nbsp;Game detail view with per-game achievements
+- 🔎 &nbsp;Search, status filters, and sorting
+- 📊 &nbsp;Progress bars, XP, and completion indicators
 
 </td>
 <td width="34%" valign="top">
 
 **Planned &amp; In Progress**
 
-- 🧬 &nbsp;Races, classes, spells, and abilities
-- ⚔️ &nbsp;Character progression and equipment
-- 📖 &nbsp;D&amp;D reference data
-- 👤 &nbsp;User profiles and character collections
-- 🐳 &nbsp;Docker-based development and deployment
+- 🔗 &nbsp;Steam Web API integration
+- 🔄 &nbsp;Game library and achievement synchronization
+- 🎯 &nbsp;Completion goals and a personal quest log
+- 🏅 &nbsp;Rare and hardest achievement tracking
+- 📈 &nbsp;Playtime and completion statistics
+- 💾 &nbsp;Local persistence of gaming progress
+- 📦 &nbsp;Packaged cross-platform desktop builds
 
 </td>
 </tr>
 </table>
 
-The project combines my passion for **software development, D&amp;D, games, and fantasy worlds** while giving me an opportunity to build and learn across the full stack.
+</div>
+
+The project brings together my interests in **games, data, and software development**, and is my first step into building a cross-platform desktop application.
 
 ---
 
